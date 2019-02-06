@@ -1,6 +1,6 @@
 function ContactController() {
     this.name = 'Bill Gates';
-    this.email = 'william@microsoft.com'
+    this.email = 'william@microsoft.com';
 }
 
 angular
